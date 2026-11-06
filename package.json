@@ -9,7 +9,7 @@
     "test:tag": "npx playwright test --grep @test8",
     "test:tag:workes": "npx playwright test --grep @test8 --workers=1",
     "html:report": "npx playwright show-report",
-    "test:headed": "npx playwright test --headed",
+    "test:headed": "npx playwright test --headed"
   },
   "keywords": [],
   "author": "",
